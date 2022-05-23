@@ -7,9 +7,9 @@ function Checkout() {
   // this will fetch products with id 1, 4 and 6.
  
   // If cart is empty, show following div:
-  if () {
-    return <div className="emptyCart">Nothing in cart</div>;
-  }
+  // if (true) {
+  //   return <div className="emptyCart">Nothing in cart</div>;
+  // }
 
 
 // else:
